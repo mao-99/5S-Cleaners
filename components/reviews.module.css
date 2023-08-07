@@ -1,0 +1,12 @@
+.Reviews{
+    margin: 15px;
+}
+.carouselInner {
+    text-align: center; /* Center the images horizontally */
+}
+
+.carouselImages {
+    display: grid; /* Ensure the images are displayed inline */
+    max-width: 100%; /* Make sure the images fit within the container */
+    height: auto; /* Maintain the aspect ratio */
+}
