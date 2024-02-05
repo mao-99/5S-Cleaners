@@ -1,0 +1,29 @@
+{
+  "name": "5s-cleaners-alpha",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "10.4.15",
+    "bootstrap": "^5.3.1",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.4.19",
+    "formidable": "^3.5.1",
+    "jquery": "^3.7.1",
+    "next": "13.4.19",
+    "nodemailer": "^6.9.7",
+    "pg": "^8.11.3",
+    "postcss": "8.4.29",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-places-autocomplete": "^7.3.0",
+    "react-player": "^2.14.1",
+    "sequelize": "^6.35.2",
+    "tailwindcss": "3.3.3"
+  }
+}
