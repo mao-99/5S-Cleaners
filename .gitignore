@@ -33,3 +33,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# api&config
+/5S-Cleaners/pages/api/
+/5S-Cleaners/pages/_app.js
