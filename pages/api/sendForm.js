@@ -49,15 +49,15 @@ export default async function handler(req, res) {
       port: 587, // Replace with your SMTP port
       secure: false, // Set to true if using SSL/TLS
       auth: {
-        user:  // Replace with your SMTP username
-        pass:  // Replace with your SMTP password
+        user: 'postmaster@sandboxd8827c6eee3b476fa22b93a093fd25c2.mailgun.org', // Replace with your SMTP username
+        pass: '97ce7d614357d4bc315878849c61dadc-1900dca6-b11137a3', // Replace with your SMTP password
       },
     });
 
     // Compose email message
     const mailOptions = {
-      from:  // Replace with your email
-      to:  // Replace with your business email
+      from: 'postmaster@sandboxd8827c6eee3b476fa22b93a093fd25c2.mailgun.org', // Replace with your email
+      to: '5scleanersllc@gmail.com', // Replace with your business email
       subject: 'New Booking Inquiry',
       text: `
         Category: ${serviceName}
