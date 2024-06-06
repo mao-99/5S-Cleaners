@@ -6,7 +6,7 @@ This web app: Was built using a NextJS and Javascript and a template from html5u
 
 Here's a walkthrough of the full application:
 
-<img src='https://imgur.com/a/ePgMSaE.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/5NTwYcY.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif (https://www.screentogif.com/) for Windows
