@@ -9,6 +9,8 @@ Here's a walkthrough of the full application:
 <img src='https://imgur.com/5NTwYcY.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <a href=''https://imgur.com/5NTwYcY.gif''>Video Walkthrough</a>
 
+
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif (https://www.screentogif.com/) for Windows
 
