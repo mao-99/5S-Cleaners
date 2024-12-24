@@ -5,6 +5,7 @@ import Intro from "@/components/intro";
 import Review from "@/components/reviews";
 import Link from "next/link";
 import Footer from "@/components/footer";
+import ParticlesEffect from "@/components/particles";
 import { useEffect, useState } from "react";
 
 
@@ -35,6 +36,7 @@ export default function Home(){
                     <title>{pageTitle}</title>
                 </Head>
                 <Header transparent={true}></Header>
+                
                 <Banner>
                 </Banner>
                 <Intro></Intro>

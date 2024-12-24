@@ -1,13 +1,11 @@
 import Link from "next/link";
-import jQuery from "jquery";
-import { useEffect, useState } from "react";
 
 export default function Header({ transparent }) {
   return (
     <section>
       <header  id="header">
         <h1>
-          <Link href="/">5 S Cleaners</Link>
+          <Link href="/">5S Cleaners</Link>
         </h1>
         <nav id="nav">
           <ul>
@@ -18,7 +16,7 @@ export default function Header({ transparent }) {
               <Link href="/aboutUs">About Us</Link>
             </li>
             <li>
-              <Link href="/services">Services + Bookings</Link>
+              <Link href="/services">Services</Link>
             </li>
             <li>
               <Link href="/contactPage" className="button">
